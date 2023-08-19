@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KanbanReact/static/css/main.ee2f8895.css",
+    "main.js": "/KanbanReact/static/js/main.c201dbc2.js",
+    "static/js/787.62c99257.chunk.js": "/KanbanReact/static/js/787.62c99257.chunk.js",
+    "static/media/logo.svg": "/KanbanReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KanbanReact/index.html",
+    "main.ee2f8895.css.map": "/KanbanReact/static/css/main.ee2f8895.css.map",
+    "main.c201dbc2.js.map": "/KanbanReact/static/js/main.c201dbc2.js.map",
+    "787.62c99257.chunk.js.map": "/KanbanReact/static/js/787.62c99257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2f8895.css",
+    "static/js/main.c201dbc2.js"
+  ]
+}
